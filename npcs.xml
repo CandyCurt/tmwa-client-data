@@ -1347,5 +1347,14 @@
     <sprite>equipment/legs/skirt-female.xml|#39230f,4e2f14,5e3817,6b4422,79502e,815d3b,926d4f</sprite>
     <sprite>equipment/feet/boots-female.xml|#4f2d29,c89078</sprite>
   </npc>
+  <!-- Gispaan Male in Brown Dress Up with Gas Mask -->
+  <npc id="410">
+      <sprite>races/gispaan-male.xml</sprite>
+      <sprite>equipment/legs/pants-male.xml|#2a2117,2f2112,493219,61411e,724c22,a97e4f</sprite>
+      <sprite>equipment/chest/sorcerer-robe-male.xml|#2a2117,2f2112,493219,61411e,724c22,a97e4f;#2a2117</sprite>
+      <sprite>equipment/feet/boots-male.xml|#2a2117,2f2112,493219,61411e,724c22,a97e4f</sprite>
+      <sprite>equipment/chest/tanktop-male.xml|#2a2117,2f2112,493219,61411e,724c22,a97e4f</sprite>
+      <sprite>equipment/head/gasmask-male.xml</sprite>
+  </npc>
   <!-- note: don't go above 999, because the 1000's are reserved for mob id -->
 </npcs>
